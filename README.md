@@ -18,3 +18,6 @@
 <!-- GitHub Stats and Top Languages-->
 ![Celeste's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvioni&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvioni&layout=compact&theme=tokyonight)
+
+Feel free to reach out to me via email:  
+[![Email](https://img.shields.io/badge/-salvi.pilo@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:salvi.pilo@gmail.com)
