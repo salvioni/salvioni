@@ -1,4 +1,4 @@
-## Hi there, I'm Celeste! 👋
+### Hi there! I'm Celeste 👋
 
 👩‍💻 Currently majoring in Computer Science  
 🇧🇷 Brazilian  
@@ -12,3 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
 📚 I can speak 4 languages! (Portuguese, English, Spanish, Italian)
+
+</br>
+
+<!-- GitHub Stats and Top Languages-->
+![Celeste's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvioni&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvioni&layout=compact&theme=tokyonight)
