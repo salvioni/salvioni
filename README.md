@@ -2,7 +2,7 @@
 
 👩‍💻 Currently majoring in Computer Science  
 🇧🇷 Brazilian  
-🌱 Learning:  
+🌱 Learning: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
