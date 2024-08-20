@@ -1,6 +1,6 @@
 ### Hi there! I'm Celeste 👋
 
-👩‍💻 Currently majoring in Computer Science  
+👩‍💻 Computer Science student at Centro Universitário de Brasília, UniCEUB  
 🇧🇷 Brazilian  
 🌱 Learning: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
